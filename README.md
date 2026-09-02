@@ -1,1 +1,1 @@
-# -CSCI-271-Spring-2026
+# CSCI-271-Spring-2026
