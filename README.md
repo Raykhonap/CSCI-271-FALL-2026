@@ -1,4 +1,5 @@
 *First part of the program is instruction manual # include <iostream> this code acts as libary which will pull out codes that will need to run this program.
+
 *Then I also add using namespace std; this will allow us to write codes std::cout << "Hello" << std:: endl; in shorter version cout << "Hello" << endl;
 
 *Something that was challenging was navigating in GitHub and also I struggled with allowing user enter name then I  learned from some research and help from AI. 
