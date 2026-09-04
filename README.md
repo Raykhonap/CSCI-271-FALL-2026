@@ -4,7 +4,7 @@
 
 *Something that was challenging was navigating in GitHub and also I struggled with allowing user enter name then I  learned from some research and help from AI. 
 
-*In order for that you have add #include <string> right under  the first part of the program
+*In order for that you have add #include <string> right under  the first part of the program, under instruction manual.
 
 *Then we go to where the program starts enter string name;
 
