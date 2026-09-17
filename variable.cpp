@@ -7,6 +7,6 @@ string name;                               // Declares a variable to store users
 int age;                                  // Declares a variable to store the users age [whole number]
 cout <<"What is your name and age?";     //Prints an prompt on the screen asking users name and age
 cin >>name>> age;                       // Allows the user enter their name and age
-cout  << "Hello, I am" <<name<< "I am" <<age<< "years old";  // Prints the output introduction of users name and age
+cout  << "Hello, I am " <<name<< ", and I am " <<age<< " years old";  // Prints the output introduction of users name and age
 return 0;                                                        // The End (program ends)
 }
