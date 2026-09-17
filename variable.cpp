@@ -1,6 +1,6 @@
-#include <iostream>                        // Its the tool kit, it allows us to use the cin/cout
+#include <iostream>                        // Its the tool kit / starter 
 #include <string>                          // It gives access to the string type, which allows us to create string variables 
-
+using namespace std;                       //it allows us to use the cin/cout without using std:: every time
 int main ()                                // Execution will start inside the main (), marks the beginning of the code 
 {
 string name;                               // Declares a variable to store users name 
