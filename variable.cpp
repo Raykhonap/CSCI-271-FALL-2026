@@ -1,13 +1,12 @@
-#include <iostream>
-#include <string>
-using namespace std;
+#include <iostream>                        // Its the tool kit, it allows us to use the cin/cout
+#include <string>                          // It gives access to the string type, which allows us to create string variables 
 
-int main () 
+int main ()                                // Execution will start inside the main (), marks the beginning of the code 
 {
-string name;
-int age;
-cout << "Enter your name and age";
-cin >> name >> age;
-cout  << "Hello, I am" << name << "I am" << age << "years old";
-return 0;
+string name;                               // Declares a variable to store users name 
+int age;                                  // Declares a variable to store the users age [whole number]
+cout << "What is your name and age?";     //Prints an prompt on the screen asking users name and age
+cin >> name >> age;                       // Allows the user enter their name and age
+cout  << "Hello, I am" << name << "I am" << age << "years old";  // Prints the output introduction of users name and age
+return 0;                                                        // The End (program ends)
 }
