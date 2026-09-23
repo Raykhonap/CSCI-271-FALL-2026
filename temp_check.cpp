@@ -19,5 +19,5 @@ else if (temp >= 32) {         //If tempature is greather than or equal to 32 th
   else  {                    //If tempature does not fit in on the top variables and its less than 32 then Freezing will be printed on the screen
   cout << " That's Freezing." << endl; 
 }
-  return 0;
+  return 0;                  //The End 
 }
