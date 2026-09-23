@@ -8,16 +8,16 @@ int temp;             // Declares an variable for tempature
   cin >> temp;                           // Allows the user enter tempature
 
 if (temp >= 76) {               //If the tempature is greater than or equal to 76 then it prints on the screen Hot or else it skips this line 
-  cout << "Hot" << endl;
+  cout << "That's Hot." << endl;
 }
 else if (temp >= 60) {          //If tempature is greather than or equal to 60 then Mild will be printed on the screen or else it also gets skipped
-  cout <<"Mild" << endl;
+  cout <<"That's Mild." << endl;
 }
 else if (temp >= 32) {         //If tempature is greather than or equal to 32 then Cold will be printed on the screen or else it will be skipped
-  cout << "Cold" << endl;
+  cout << " That's Cold." << endl;
 }
-  else  {
-  cout << "Freezing" << endl; //If tempature does not fit in on the top variables and its less than 32 then Freezing will be printed on the screen
+  else  {                    //If tempature does not fit in on the top variables and its less than 32 then Freezing will be printed on the screen
+  cout << " That's Freezing." << endl; 
 }
   return 0;
 }
