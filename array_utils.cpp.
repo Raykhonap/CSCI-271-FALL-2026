@@ -37,3 +37,4 @@ int result = countAbove(values, SIZE, limit); // Runs count function and saves a
 cout << "Count: " << result << endl;   // Prints the final count answer
 
 return 0;                              // Ends program 
+}
