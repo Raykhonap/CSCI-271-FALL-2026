@@ -1,4 +1,3 @@
-//Raykhona - Pulotova  Assigment #1 
 
 #include <iostream>
 #include <string>
