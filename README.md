@@ -13,7 +13,7 @@ Assignment #4:
 mult_table.cpp             menu_validate.cpp
 ___________________________________________________________________________________________________
 Assignment #5:
-score_stats.cpp            search_count.cpp     
+score_stats.cpp            search_count.cpp      array_utils.cpp.
 ___________________________________________________________________________________________________
 Assignment #7:
 binary_search.cpp          grade.tracker.cpp
