@@ -7,16 +7,16 @@ Assignment #2:
 variable.cpp
 ___________________________________________________________________________________________________
 Assignment #3: 
-temp_check.cpp   elgibility.cpp
+temp_check.cpp             elgibility.cpp
 ___________________________________________________________________________________________________
-Assignment #4: 
-mult_table.cpp   menu_validate.cpp
+Assignment #4:  
+mult_table.cpp             menu_validate.cpp
 ___________________________________________________________________________________________________
 Assignment #5:
-score_stats.cpp    search_count.cpp     
+score_stats.cpp            search_count.cpp     
 ___________________________________________________________________________________________________
 Assignment #7:
-binary_search.cpp   grade.tracker.cpp
+binary_search.cpp          grade.tracker.cpp
 ___________________________________________________________________________________________________
 
 *First part of the program is instruction manual # include <iostream> this code acts as libary which will pull out codes that will need to run this program.
