@@ -1,3 +1,13 @@
+# CSCI-271-FALL-2026/
+
+
+
+
+
+
+
+
+
 *First part of the program is instruction manual # include <iostream> this code acts as libary which will pull out codes that will need to run this program.
 
 *Then I also add using namespace std; this will allow us to write codes std::cout << "Hello" << std:: endl; in shorter version cout << "Hello" << endl;
