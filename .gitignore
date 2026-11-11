@@ -1,0 +1,6 @@
+Debug/
+Release/
+*.o
+*.obj
+*.exe
+.vs/ 
