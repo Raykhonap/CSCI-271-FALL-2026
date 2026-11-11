@@ -1,5 +1,5 @@
-# CSCI-271-FALL-2026/
-
+# CSCI-271-FALL-2026
+https://github.com/Raykhonap/CSCI-271-FALL-2026/tree/260726dea7b2dd426df609daf1536f80a994ad14/ assigment1 
 
 
 
